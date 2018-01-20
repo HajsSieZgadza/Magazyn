@@ -1,0 +1,3 @@
+﻿  Magazyn.cpp
+Magazyn.obj : error LNK2019: nierozpoznany zewnŕtrzny symbol "public: void __thiscall Magazyn::wyswietlenieMagazynu(void)" (?wyswietlenieMagazynu@Magazyn@@QAEXXZ) przywo│any w funkcji "public: void __thiscall Magazyn::usunPalete(void)" (?usunPalete@Magazyn@@QAEXXZ)
+C:\Users\Adam & Madzia\Desktop\Magazyn\Magazyn\Debug\Magazyn.exe : fatal error LNK1120: liczba nierozpoznanych elementˇw zewnŕtrznych: 1
